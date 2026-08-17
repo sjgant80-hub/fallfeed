@@ -1,6 +1,6 @@
 # FallFeed
 
-> A sovereign mesh feed. Sign your posts with Ed25519, publish to the WebRTC channel, Access to peers. No servers, no algorithms, no ads. Nothing leaves your device unless you sign it.
+> A sovereign mesh feed. Sign your posts with Ed25519, publish to the WebRTC channel, subscribe to peers. No servers, no algorithms, no ads. Nothing leaves your device unless you sign it.
 
 ## Canonical URL
 

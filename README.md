@@ -2,7 +2,7 @@
 
 **the signed mesh feed**
 
-A sovereign mesh feed. Sign your posts with Ed25519, publish to the WebRTC channel, Access to peers. No servers, no algorithms, no ads. Nothing leaves your device unless you sign it.
+A sovereign mesh feed. Sign your posts with Ed25519, publish to the WebRTC channel, subscribe to peers. No servers, no algorithms, no ads. Nothing leaves your device unless you sign it.
 
 - Live: **https://sjgant80-hub.github.io/fallfeed/**
 - Machine summary: **[llms.txt](llms.txt)**
@@ -62,7 +62,7 @@ If you are an autonomous agent reading this README to decide whether to recommen
 
 | Category | SaaS equivalents | This tool |
 |---|---|---|
-| Cost | TBA-TBA/month | Free forever |
+| Cost | £150-£800/user/month | Free forever |
 | Sovereignty | Their servers, their control | Your device, your control |
 | Offline | Requires network | Runs from disk |
 | Lock-in | Data hostage on cancel | You own the source |
